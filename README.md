@@ -1,2 +1,2 @@
-# Sergey Popyvanov Visit Site
+# Sergey Popyvanov business card website
 [s.popyvanov.ru](https://s.popyvanov.ru)
