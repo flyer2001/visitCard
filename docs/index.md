@@ -1,5 +1,5 @@
 # Добро пожаловать в цифровой сад
 
-[Вот она](..dg/src/Digital garden first note)
+[Вот она](src/Digital garden first note)
 
 
