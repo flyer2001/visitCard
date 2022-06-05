@@ -1,4 +1,4 @@
 # Добро пожаловать в цифровой сад
-[[Digital garden first note]]
+(Первая заметка)[Digital garden first note.md]
 
 
